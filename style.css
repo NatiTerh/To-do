@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    width: 400px;
+    height: 500px;
+    background-color: rgb(219, 191, 236);
+}
+
+input {
+    width: 340px;
+}
+li {
+    margin-top: 10px;
+    margin-left: 25px;
+
+}
